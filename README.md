@@ -68,11 +68,15 @@ This system aims to provide an intuitive experience for users while ensuring dat
 
 ## Output
 
-blob:https://web.whatsapp.com/4b117cb0-d0ae-413c-940f-c3d35f96cb9d
+![image](https://github.com/user-attachments/assets/c5790f66-8de5-4b9f-8987-fbeb4d3fd220)
 
-blob:https://web.whatsapp.com/baa061a4-20ee-4f63-a9e2-7cf2b4a76d42
+![image](https://github.com/user-attachments/assets/90992c05-a349-44b5-9cdd-a4f2ee65fa13)
 
+![WhatsApp Image 2025-04-29 at 8 45 23 PM](https://github.com/user-attachments/assets/39cf769a-d935-421e-a0a8-bf1716a47db0)
 
+![image](https://github.com/user-attachments/assets/76db2aa0-8a98-4e2a-83eb-e2fb625b1672)
+
+![image](https://github.com/user-attachments/assets/43548a2d-84ba-4753-940a-a258601ec5ff)
 
 ## License
 
