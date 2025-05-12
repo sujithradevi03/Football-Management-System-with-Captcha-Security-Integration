@@ -27,7 +27,7 @@ def home():
             return redirect(url_for('football'))  # Redirect to the route that opens your football game
         else:
             return "CAPTCHA failed. Try again."
-    return render_template('sujithradevi.html')
+    return render_template('index.html')
 @app.route('/football')  # New route for opening your football game
 def football():
     # You can implement your game logic here or point to where the game opens
