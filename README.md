@@ -66,6 +66,14 @@ This system aims to provide an intuitive experience for users while ensuring dat
 - **Match Statistics**: Addition of detailed match statistics for deeper insights.
 - **Mobile App Integration**: Extending the application to mobile platforms for better access.
 
+## Output
+
+blob:https://web.whatsapp.com/4b117cb0-d0ae-413c-940f-c3d35f96cb9d
+
+blob:https://web.whatsapp.com/baa061a4-20ee-4f63-a9e2-7cf2b4a76d42
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
