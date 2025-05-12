@@ -9,7 +9,7 @@ def home():
         recaptcha_response = request.form['g-recaptcha-response']
         
         # Secret key for reCAPTCHA verification
-        secret_key = '6LccRSMrAAAAAM4zZMmreYsORSXc_S5OF9Up_xXH'
+        secret_key = ''
         
         # Verify the reCAPTCHA response with Google's API
         payload = {
